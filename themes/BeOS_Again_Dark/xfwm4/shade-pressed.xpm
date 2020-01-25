@@ -1,0 +1,38 @@
+/* XPM */
+static char *shade_pressed[] = {
+/* columns rows colors chars-per-pixel */
+"14 27 5 1 ",
+"  c #040404",
+". c #333333",
+"X c #474747",
+"o c #717171",
+"O c None",
+/* pixels */
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"              ",
+"            oo",
+"  XXXXXXXXXXoo",
+"  XXXXXXXXXXoo",
+"  XXXX  XXXXoo",
+"  XXX .. XXXoo",
+"  XX .... XXoo",
+"  X ..  .. Xoo",
+"  X . XX . Xoo",
+"  X  XXXX  Xoo",
+"  XXXXXXXXXXoo",
+"  XXXXXXXXXXoo",
+" ooooooooooooo",
+" ooooooooooooo",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO"
+};

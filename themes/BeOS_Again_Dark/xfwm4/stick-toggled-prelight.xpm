@@ -1,0 +1,38 @@
+/* XPM */
+static char *stick_toggled_prelight[] = {
+/* columns rows colors chars-per-pixel */
+"14 27 5 1 ",
+"  c #040404",
+". c #383838",
+"X c #474747",
+"o c #717171",
+"O c None",
+/* pixels */
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"              ",
+" ooooooooooooo",
+" oXXXXXXXXXX o",
+" oX       .X o",
+" oXX     .XX o",
+" oXX     .XX o",
+" oXX     .XX o",
+" oX       .X o",
+" oXXX   .XXX o",
+" oXXX   .XXX o",
+" oXXX   .XXX o",
+" oXXX. .XXXX o",
+" o           o",
+" ooooooooooooo",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO"
+};

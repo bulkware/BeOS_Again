@@ -1,0 +1,37 @@
+/* XPM */
+static char *shade_toggled_prelight[] = {
+/* columns rows colors chars-per-pixel */
+"14 27 4 1 ",
+"  c #040404",
+". c #474747",
+"X c #717171",
+"o c None",
+/* pixels */
+"oooooooooooooo",
+"oooooooooooooo",
+"oooooooooooooo",
+"oooooooooooooo",
+"oooooooooooooo",
+"oooooooooooooo",
+"              ",
+" XXXXXXXXXXXXX",
+" X.......... X",
+" X.......... X",
+" X.  ....  . X",
+" X.   ..   . X",
+" X.        . X",
+" X..      .. X",
+" X...    ... X",
+" X....  .... X",
+" X.......... X",
+" X.......... X",
+" X           X",
+" XXXXXXXXXXXXX",
+"oooooooooooooo",
+"oooooooooooooo",
+"oooooooooooooo",
+"oooooooooooooo",
+"oooooooooooooo",
+"oooooooooooooo",
+"oooooooooooooo"
+};

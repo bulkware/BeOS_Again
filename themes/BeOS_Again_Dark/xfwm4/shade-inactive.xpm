@@ -1,0 +1,38 @@
+/* XPM */
+static char *shade_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"14 27 5 1 ",
+"  c #040404",
+". c #333333",
+"X c #474747",
+"o c #717171",
+"O c None",
+/* pixels */
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"              ",
+" ooooooooooooo",
+" oXXXXXXXXXX o",
+" oXXXXXXXXXX o",
+" oXXXX  XXXX o",
+" oXXX .. XXX o",
+" oXX .... XX o",
+" oX ..  .. X o",
+" oX . XX . X o",
+" oX  XXXX  X o",
+" oXXXXXXXXXX o",
+" oXXXXXXXXXX o",
+" o           o",
+" ooooooooooooo",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOO"
+};
